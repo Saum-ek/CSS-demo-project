@@ -1,4 +1,4 @@
-# 🌐 Mini Project — Static Web Page
+# 🌐 CSS-demo-Project — Static Web Page
 
 A beginner-level static web page built while learning the fundamentals of HTML and CSS. This project was a hands-on exercise in page structure, styling, and linking external assets.
 
